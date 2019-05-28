@@ -1,0 +1,15 @@
+{
+  "name": "code-and-magick-api",
+  "version": "1.0.0",
+  "description": "API for project code-and-magick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-htmlacademy": "^0.5.2"
+  }
+}
